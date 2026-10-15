@@ -185,10 +185,14 @@ Forrester у Wave за 2-й квартал 2026 називає це головн
 
 Нижче — окремо чотири рішення, які **як мінімум частково локалізували свої продукти для України і не мають зв'язків з рф** (перевірено: intuitem — французька компанія з хостингом у ЄС; Kordon — естонська, хостинг у ЄС; UnderDefense — українського походження; CSET — від CISA, уряд США). Саме з них має сенс починати організації, для яких важлива мова інтерфейсу, підтримки чи документації. Деталі й відмінності — у таблиці нижче.
 
-- [**CISO Assistant**](https://intuitem.com/) (intuitem, Франція) — найкращий безкоштовний старт для мультистандартних програм на власному сервері.  
-- [**Kordon**](https://kordon.app/uk/) (Естонія) — найпростіший вхід для SMB; повністю українські сайт і документація, є [безплатні шаблони політик](https://kordon.app/uk/shablony-dokumentiv/).  
-- [**UnderDefense MAXI**](https://underdefense.com/) (США / українське коріння) — compliance-автоматизація поверх MDR/SOC, з адаптацією частини вимог НБУ.  
-- [**CSET**](https://www.cisa.gov/downloading-and-installing-cset) (CISA) — безкоштовний офлайн-інструмент разової самооцінки для дрібних організацій і ОТ-середовищ.
+- [**CISO Assistant**](https://intuitem.com/) (intuitem, Франція) — найкращий безкоштовний старт для мультистандартних програм на власному сервері.
+- [**EY Virtual Internal Auditor (EY VIA)**](https://www.ey.com/en_ua/services/consulting/virtual-internal-auditor) (США) - рішення від EY, яке допомагає відстежувати відповідність на основі ШІ  
+- [**UnderDefense MAXI**](https://underdefense.com/) (США / українське коріння) — compliance-автоматизація поверх MDR/SOC, з адаптацією частини вимог НБУ.
+- [**ITS Compliance**](https://my-itspecialist.com/in-house-developed-software/its-compliance) (Україна) - автоматизація поверх системи управління активами.
+- [**Kordon**](https://kordon.app/uk/) (Естонія) — найпростіший вхід для SMB; повністю українські сайт і документація, є [безкоштовні шаблони політик](https://kordon.app/uk/shablony-dokumentiv/).
+- [**CISODIUM**](https://cisodium.com/uk/) (Естонія) - автоматизація поверх системи управління активами.
+- [**CSET**](https://www.cisa.gov/downloading-and-installing-cset) (CISA) — безкоштовний офлайн-інструмент разової самооцінки для дрібних організацій і ОТ-середовищ.  
+- [**SecBoard**](https://secboard.online/) (Україна)
 
 >   
 > **Решта ринку.** SimpleRisk, Comp AI, Eramba, Prowler та ще 80+ інструментів з їхніми позиціями в аналітичних звітах зручно порівнювати у каталозі [allaboutgrc.com/grc-tools](https://allaboutgrc.com/grc-tools/). Там же — «GRC-суміжні» інструменти (Databee, Tanium), які потрапляють в аналітичні звіти, але не є GRC-платформами у чистому вигляді.
